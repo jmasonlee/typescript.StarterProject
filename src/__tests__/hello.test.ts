@@ -1,4 +1,4 @@
-let Hello = require('../src/Hello')
+let Hello = require('../Hello')
 
 describe('test', function () {
     it('should run the test', function () {
