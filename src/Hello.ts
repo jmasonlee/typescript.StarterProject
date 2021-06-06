@@ -1,5 +1,5 @@
 module.exports = class Hello {
-    greet() {
+    greet(): string {
         return "Hello!"
     }
 }
