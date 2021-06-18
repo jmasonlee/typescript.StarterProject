@@ -1,4 +1,4 @@
-module.exports = class Hello {
+export default class Hello {
     greet(): string {
         return "Hello!"
     }

@@ -1,4 +1,4 @@
-let Hello = require('../Hello')
+import Hello from '../Hello'
 
 describe('test', function () {
     it('should run the test', function () {
